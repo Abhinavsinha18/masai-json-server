@@ -13,7 +13,7 @@
       "discription1": "₹ 2,000 for 2 (approx)",
       "discription2": "Continental",
       "discription3": "Asian",
-      "discription4": "Italian",
+      "discription4": "Pure Veg",
       "discription5": "North Indian",
       "location3": ""
     },
@@ -28,7 +28,7 @@
       "location1": "F-Block,",
       "location2": "Connaught Place",
       "discription1": "₹ 1,100 for 2 (approx)",
-      "discription2": "Italian",
+      "discription2": "Pure Veg",
       "discription3": "Chinese",
       "discription4": "North Indian",
       "discription5": "Fast Food",
@@ -47,7 +47,7 @@
       "location2": "Central Delhi",
       "discription1": "₹ 1,800 for 2 (approx)",
       "discription2": "North Indian",
-      "discription3": "Italian",
+      "discription3": "Pure Veg",
       "discription4": "Continental",
       "discription5": "Asian",
       "location3": ""
@@ -115,7 +115,7 @@
       "location2": "Central Delhi",
       "discription1": "₹ 3,300 for 2 (approx)",
       "discription2": "North Indian",
-      "discription3": "Italian",
+      "discription3": "Pure Veg",
       "discription4": "Chinese",
       "discription5": "Turkish",
       "location3": ""
@@ -134,7 +134,7 @@
       "discription2": "Finger Food",
       "discription3": "Chinese",
       "discription4": "Continental",
-      "discription5": "Italian",
+      "discription5": "Pure Veg",
       "location3": ""
     },
     {
@@ -185,7 +185,7 @@
       "discription1": "₹ 2,000 for 2 (approx)",
       "discription2": "North Indian",
       "discription3": "Asian",
-      "discription4": "Italian",
+      "discription4": "Pure Veg",
       "discription5": "Pure veg",
       "location3": ""
     },
@@ -219,7 +219,7 @@
       "discription1": "₹ 2,500 for 2 (approx)",
       "discription2": "North Indian",
       "discription3": "Chinese",
-      "discription4": "Italian",
+      "discription4": "Pure Veg",
       "discription5": "Pure veg",
       "location3": ""
     },
@@ -236,7 +236,7 @@
       "discription1": "₹ 2,100 for 2 (approx)",
       "discription2": "North Indian",
       "discription3": "Continental",
-      "discription4": "Italian",
+      "discription4": "Pure Veg",
       "discription5": "Pure veg",
       "location3": ""
     },
@@ -288,7 +288,7 @@
       "discription2": "North Indian",
       "discription3": "Mediterranean",
       "discription4": "Chinese",
-      "discription5": "Italian",
+      "discription5": "Pure Veg",
       "location3": ""
     },
     {
@@ -320,7 +320,7 @@
       "location2": "Connaught Place",
       "discription1": "₹ 1,600 for 2 (approx)",
       "discription2": "Chinese",
-      "discription3": "Italian",
+      "discription3": "Pure Veg",
       "discription4": "North Indian",
       "discription5": "Continental",
       "location3": "Central Delhi"
@@ -434,7 +434,7 @@
       "discription3": "Chinese",
       "category": "Dineout Pay",
       "tags":"Cafe",
-      "discription4": "Italian"
+      "discription4": "Pure Veg"
     },
     {
       "image": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/6/e/r/p6293-163488614761726203a235a.jpg?tr=tr:n-medium",
@@ -642,7 +642,7 @@
       "discription3": "Pizza",
       "category": "Dineout Pay",
       "tags":"Cafe",
-      "discription4": "Italian"
+      "discription4": "Pure Veg"
     },
 
 
@@ -742,7 +742,7 @@
         "category": "Buffet",
         "tags":"Bakery",
         "discription3": "North Indian",
-        "discription4": "Italian"
+        "discription4": "Pure Veg"
       },
       {
         "image": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/w/e/p2900-15610290405d0b69b0c589b.jpg?tr=tr:n-medium",
@@ -769,7 +769,7 @@
         "discription2": "Continental",
         "category": "Buffet",
         "tags":"Bakery",
-        "discription3": "Italian",
+        "discription3": "Pure Veg",
         "discription4": "European"
       },
       {
@@ -784,7 +784,7 @@
         "category": "Buffet",
         "tags":"Bakery",
         "discription3": "North Indian",
-        "discription4": "Italian"
+        "discription4": "Pure Veg"
       },
       {
         "image": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/3/e/n/p3132-14527716315697892f5de48.jpg?tr=tr:n-medium",
@@ -826,7 +826,7 @@
         "category": "Buffet",
         "tags":"Bakery",
         "discription3": "Asian",
-        "discription4": "Italian"
+        "discription4": "Pure Veg"
       },
       {
         "image": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/r/p/p2917-14639996715742dcb75b8e2.jpg?tr=tr:n-medium",
@@ -839,7 +839,7 @@
         "discription2": "Chinese",
         "category": "Buffet",
         "tags":"Bakery",
-        "discription3": "Italian",
+        "discription3": "Pure Veg",
         "discription4": "North Indian"
       },
       {
@@ -952,7 +952,7 @@
         "category": "Buffet",
         "tags":"Bakery",
         "discription3": "Chinese",
-        "discription4": "Italian"
+        "discription4": "Pure Veg"
       },
 
 
@@ -1053,7 +1053,7 @@
         "discription1": "₹ 1,000 for 2 (approx)",
         "discription2": "Continental",
         "category": "Fast Food",
-        "discription3": "Italian",
+        "discription3": "Pure Veg",
         "discription4": "",
         "btn": "Dineout Pay"
             },
@@ -1065,7 +1065,7 @@
         "location2": "Gurgaon",
         "discription1": "₹ 1,500 for 2 (approx)",
         "discription2": "Fast Food",
-        "category": "Italian",
+        "category": "Pure Veg",
         "discription3": "Desserts",
         "discription4": "",
         "btn": "Dineout Pay"
@@ -1078,9 +1078,9 @@
         "location2": "South Delhi",
         "discription1": "₹ 1,000 for 2 (approx)",
         "discription2": "Fast Food",
-        "category": "Beverages",
+        "category": "Desserts",
         "discription3": "",
-        "discription4": "",
+        "discription4": "Desserts",
         "btn": "Dineout Pay"
             },
       {
@@ -1091,8 +1091,8 @@
         "location2": "South Delhi",
         "discription1": "₹ 600 for 2 (approx)",
         "discription2": "Fast Food",
-        "category": "",
-        "discription3": "",
+        "category": "Desserts",
+        "discription3": "North Indian",
         "discription4": "",
         "btn": ""
             },
@@ -1104,8 +1104,8 @@
         "location2": "South Delhi",
         "discription1": "₹ 600 for 2 (approx)",
         "discription2": "Fast Food",
-        "category": "",
-        "discription3": "",
+        "category": "Desserts",
+        "discription3": "North Indian",
         "discription4": "",
         "btn": ""
             },
@@ -1117,8 +1117,8 @@
         "location2": "Chanakyapuri",
         "discription1": "₹ 2,400 for 2 (approx)",
         "discription2": "Fast Food",
-        "category": "",
-        "discription3": "",
+        "category": "Desserts",
+        "discription3": "North Indian",
         "discription4": "South Delhi",
         "btn": ""
             },
@@ -1144,7 +1144,7 @@
         "discription1": "₹ 1,000 for 2 (approx)",
         "discription2": "Continental",
         "category": "Fast Food",
-        "discription3": "",
+        "discription3": "Desserts",
         "discription4": "South Delhi",
         "btn": "Dineout Pay"
             },
@@ -1156,9 +1156,9 @@
         "location2": "Gurgaon",
         "discription1": "₹ 800 for 2 (approx)",
         "discription2": "Fast Food",
-        "category": "North Indian",
-        "discription3": "Italian",
-        "discription4": "",
+        "category": "Dineout Pay",
+        "discription3": "Pure Veg",
+        "discription4": "Desserts",
         "btn": "Dineout Pay"
             },
       {
@@ -1170,8 +1170,8 @@
         "discription1": "₹ 1,400 for 2 (approx)",
         "discription2": "Continental",
         "category": "Fast Food",
-        "discription3": "",
-        "discription4": "",
+        "discription3": "Chinese",
+        "discription4": "North Indian",
         "btn": "Dineout Pay"
             },
       {
@@ -1184,7 +1184,7 @@
         "discription2": "Chinese",
         "category": "Fast Food",
         "discription3": "Pizza",
-        "discription4": "",
+        "discription4": "Desserts",
         "btn": "Dineout Pay"
             },
       {
@@ -1195,9 +1195,9 @@
         "location2": "West Delhi",
         "discription1": "₹ 800 for 2 (approx)",
         "discription2": "Fast Food",
-        "category": "North Indian",
+        "category": "Dineout Pay",
         "discription3": "Seafood",
-        "discription4": "",
+        "discription4": "Desserts",
         "btn": ""
             },
       {
@@ -1235,7 +1235,7 @@
         "discription1": "₹ 500 for 2 (approx)",
         "discription2": "Street Food",
         "category": "Fast Food",
-        "discription3": "",
+        "discription3": "Desserts",
         "discription4": "",
         "btn": "Dineout Pay"
             },
@@ -1645,7 +1645,7 @@
           "author": "Dineout Passport",
           "discription": "Keto diets, intermittent fasting, conscious eating, veganism and more…All these food trends seem to be taking over the world and the followers of these trends have demonised those of us who enjoy eating out! Well, this World Health Day, we want you to know that eating out is not a bad thing! In fact, with […]",
           "img2": "https://www.dineout.co.in/blog/wp-content/uploads/2022/04/blog1.jpg",
-          "blog-categories 18": "Italian",
+          "blog-categories 18": "Pure Veg",
           "blog-categories 19": "Jaipur",
           "blog-categories 20": "Kochi",
           "blog-categories 21": "Kolkata",
@@ -1699,7 +1699,7 @@
           "discription": "On this World Water Day, we want to highlight all the reasons that make this humble liquid everything it is. It’s a common fact that water is a life-giver but apart from that, we bet there are some facts about water that you were not aware of. Here are a few!  Maximizing physical performance Your […]",
           "img2": "https://www.dineout.co.in/blog/wp-content/uploads/2022/03/water_edit_2.jpg",
           "blog-categories 18": "Indore" ,
-          "blog-categories 19": "Italian",
+          "blog-categories 19": "Pure Veg",
           "blog-categories 20": "Jaipur",
           "blog-categories 21": "Kochi",
           "blog-categories 22": "Kolkata",
